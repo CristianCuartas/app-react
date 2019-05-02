@@ -17,10 +17,9 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
+        </a>{' '}
       </header>
     </div>
   );
 }
-
 export default App;
