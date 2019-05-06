@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-console.log('algo');
+// console.log('algo');
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
