@@ -27,11 +27,14 @@ import Example23 from './Formularios3';
 import Example24 from './Formularios4';
 import Example25 from './LevantamientoEstado';
 import Example26 from './LevantamientoEstado2';
+import Example27 from './Composicion';
+import Example28 from './Composicion2';
+import Example29 from './Composicion3';
 
 function App() {
   return (
     <div className="App">
-      <Example26 />
+      <Example29 />
     </div>
   );
 }
